@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React.js, Node.js, MongoDB**
 
-- 🧑‍🎓 I’m an Undergraduate at **SLTC**
+- 🧑‍🎓 I’m an Undergraduate at **SLTC Research University**
 
 - 📫 How to reach me **nilupulmadhusanka2001m31@gmail.com**
 
