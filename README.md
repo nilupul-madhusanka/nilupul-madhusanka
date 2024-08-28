@@ -27,7 +27,19 @@
 
 </tr>
 </table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nilupul-madhusanka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=nilupul-madhusanka&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nilupul-madhusanka&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/nilupul-madhusanka/count.svg?"  />
+</div>
+
+###
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/ssbnms2126" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ssbnms2126" height="30" width="40" /></a>
