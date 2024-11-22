@@ -8,9 +8,9 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🔭 I’m currently working on [Sri Lanka Railway By NMS](https://github.com/nilupul-madhusanka/sri-lanka-railway-by-nms)
+- 🔭 I’m currently working on [Flutter Chat App](https://github.com/nilupul-madhusanka/nms-chat-app)
 
-- 🌱 I’m currently learning **React.js, Node.js, MongoDB**
+- 🌱 I’m currently learning **Flutter**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLTC Research University**
 
