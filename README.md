@@ -1,6 +1,6 @@
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Nilupul Madhusanka</h1>
-<h3 align="center">A passionate software and frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate software and full stack developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nilupul-madhusanka&label=Profile%20views&color=0e75b6&style=flat" alt="nilupul-madhusanka" /> </p>
 
@@ -8,13 +8,13 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🔭 I’m currently working on [Flutter Chat App](https://github.com/nilupul-madhusanka/nms-chat-app)
+- 🔭 I’m currently working on [NMS Library Management System](https://github.com/nilupul-madhusanka)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **MERN**
 
 - 🧑‍🎓 I’m an Undergraduate at **SLTC Research University**
 
-- 📫 How to reach me **nilupulmadhusanka2001m31@gmail.com**
+- 📫 How to reach me **nilupul.madhu@gmail.com**
 
 - ⚡ Fun fact **Call me as NMS**
 
